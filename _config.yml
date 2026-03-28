@@ -1,1 +1,9 @@
+title: Sushant's Blog
+description: >- # this means to ignore newlines until "baseurl:"
+  My personal space to share thoughts, learnings, and projects.
+# baseurl: "" # the subpath of your site, e.g. /blog
+# url: "https://sushant.github.io" # the base hostname & protocol for your site
 theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
