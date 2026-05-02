@@ -61,3 +61,5 @@ To create a new post:
 3. Write your content below the front matter using Markdown.
 4. If the local server is running, the site will automatically regenerate when you save the file!
 5. When ready, commit and push the new file to GitHub. GitHub Pages will build and deploy it automatically.
+
+Public endpoint: https://sushant-m.github.io/sushant.github.io/
