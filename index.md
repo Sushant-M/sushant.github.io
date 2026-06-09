@@ -3,4 +3,4 @@ layout: home
 title: Welcome to my blog!
 ---
 
-This is a space where I share my thoughts, learnings, and projects.
+Hi and welcome to my site. I created this blog to document and share my interests and projects with the world.

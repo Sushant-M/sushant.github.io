@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Hi and welcome to my site. I created this blog to document and share my interests and projects with the world.
+Hi, I'm Sushant! I'm a software engineer and currently work at AWS. I just dump random thoughts and things I've learned onto this blog. Hopefully you'll find something useful here!
 
-### My Setup
-This blog is powered by **Jekyll** and hosted on **GitHub Pages**.
+Feel free to connect with me on [GitHub](https://github.com/Sushant-M) or [LinkedIn](https://www.linkedin.com/in/sushant-mathur-190870ba/).
